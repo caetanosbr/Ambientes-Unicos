@@ -1,4 +1,4 @@
-![ambientesUnicos](images/Ambientes-unicos.png)
+![ambientesUnicos](imagens/Ambientes-unicos.png)
 
 #
 
